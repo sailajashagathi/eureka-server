@@ -11,6 +11,7 @@ public class EurekaServerApplication {
 	public static void main(String[] args) {
 		System.out.println("EurekaServerApplication.main");
 		System.out.println("updating the name");
+		System.out.println("testing");
 		SpringApplication.run(EurekaServerApplication.class, args);
 	}
 
